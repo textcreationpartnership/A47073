@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Publicanus vindicatus: or, A short narrative of the occasion and obstruction in thepayment [sic] of the late Kings debts contracted upon the customes; together, with his owne unhappy condition by reason thereof. Written for publick satisfaction, but more particularly for the creditors, to whom it is dedicated, this anno 1654. By Sir John Jacob, Knight.</title>
+            <author>Jacob, John, Sir, 1597 or 8-1666.</author>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47073</idno><idno type="EEBO-CITATION">99828699</idno>
+  <idno type="VID">33130</idno>
+  <idno type="EEBO-PROQUEST">2240861101</idno>
+  
+            <idno type="STC">Wing J99</idno>
+            <idno type="STC">ESTC R216991</idno>
+            <idno type="PROQUEST">99828699</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828699e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33130)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1967:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Publicanus vindicatus: or, A short narrative of the occasion and obstruction in thepayment [sic] of the late Kings debts contracted upon the customes; together, with his owne unhappy condition by reason thereof. Written for publick satisfaction, but more particularly for the creditors, to whom it is dedicated, this anno 1654. By Sir John Jacob, Knight.</title>
+                  <author>Jacob, John, Sir, 1597 or 8-1666.</author>
+                  <author>Jacob, John, 17th cent., attributed name.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed anno Domini, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing's attribution to the John Jacob who wrote 'Even ler'sh pina the Jew turned Christian' is erroneous.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33130:1"/>
+            <p>
+               <hi>PƲBLICANƲS VINDICATƲS:</hi> OR, A short Narrative of the Occasion and Obstruction in the payment of the late Kings Debts, contracted upon the Customes; Together, with his owne unhappy condition by reason thereof.</p>
+            <p>Written for publick satisfaction, but more par<g ref="char:EOLhyphen"/>ticularly for the Creditors, to whom it is dedi<g ref="char:EOLhyphen"/>cated, this <hi>ANNO</hi> 1654.</p>
+            <p>BY Sir JOHN JACOB, <hi>Knight.</hi>
+            </p>
+            <q>
+               <p>Cui{que} sua est Tempestas, &amp; Tempus,</p>
+               <bibl>
+                  <hi>Eccles. 3.1.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed <hi>Anno Domini,</hi> 1654.</p>
+            <pb facs="tcp:33130:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33130:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:33130:3"/>
+            <pb n="1" facs="tcp:33130:3"/>
+            <head>Publicanus Vindicatus.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is excellently said by that Roman,<note place="margin">Tacitus.</note> and famous Historian, <hi>Temporibus, (quibus sinistra erga eminentes interpretatio) nec minus periculum ex magnâ famâ, quàm ex malâ.</hi> To be thought rich, was I hope my greatest Crime, and now to be thought poore, is my greatest Labour.</p>
+            <p>History is <hi>memoria praeteritorum, conjectura futurorum.</hi> I could tell you a long story, but this will be short, though sad; here will be no admiration of our change, there is nothing new under the Sun: yet take all cir<g ref="char:EOLhyphen"/>cumstances, I beleeve Time will be silenced to paralell such novelties, since the Sun shined. Our sinnes certainly were beyond all Nations, and so our punishments, be<g ref="char:EOLhyphen"/>cause we were more indebted to God then all Nations: <hi>Peccati vecchi, penitenza nuova;</hi> and <hi>nimia faelicitas, causa calamitatis.</hi> I confesse, I looked for a storme, I saw the clouds gather with some ill prognosticks, but I little dreamt of a deluge, judging like a man, and too much trusting to my owne imaginations. For which, with glory to God, I must say, that his wayes are like a Ship in the Ocean, and mine full of vanity, and vexation of spirit,
+<pb n="2" facs="tcp:33130:4"/> having been in the midst of these waves these thirteen yeares, attending all powers, factions, and alterations, and am now cast ashore upon a planck, with a wife, and nine children, to see our Lands, and Estates, torne and sold, and our reputation lost, and vilified; for which I will say with <hi>Iob, God giveth, and God taketh, blessed be the Name of the Lord.</hi>
+            </p>
+            <p>To give you the relation of our Farmes, the severall Grants, with the legalities of part of them, the illegalities of other part, the great Loanes, and advancements of mo<g ref="char:EOLhyphen"/>ney, the vastnesse of our Credits; <hi>quae vel m<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minisse, nocebit,</hi> it would make the porch bigger then the house, and so injure your expectation.</p>
+            <p>The fatall Parliament called in <hi>November</hi> 1640, fal<g ref="char:EOLhyphen"/>ling into unhappy distempers, and wanting money for the worke they had cut out; after they had sate a few moneths, questioned the Farmers for intermedling, far<g ref="char:EOLhyphen"/>ming, and receiving the Customs, and Imposts, contrary (as they said) to Law, contrary to a Declaration, &amp; Vote, <hi>tertio Caroli,</hi> and contrary to the Liberty of the Subject; They, being threatned, and timorous, fell presently under the test, durst not grapple, the Waves beating high, ther<g ref="char:EOLhyphen"/>fore they thought it safest to make a Port, and to agree betimes with an angry State; and finding it folly to dis<g ref="char:EOLhyphen"/>pute their assertions, though there was no Law to pro<g ref="char:EOLhyphen"/>hibit the Receipt, or Farming of the Customes, nor any Vote passed <hi>tertio Caroli</hi> against it, yet they confessed themselves guilty, and hastened by some pretended friends in the House, they suddenly submitted to a com<g ref="char:EOLhyphen"/>position of one hundred sixty five thousand pounds, be<g ref="char:EOLhyphen"/>sides some other summes challenged before <hi>tertio Caroli,</hi> upon the guilt of the same crime. One hundred and fifty
+<pb n="3" facs="tcp:33130:4"/> thousand pounds of this was charged among those that were called the old Farmers; <hi>viz.</hi> Sir <hi>Paul Pin<g ref="char:EOLhyphen"/>dar,</hi> Sir <hi>Iohn Wolstenholme</hi> dead, Sir <hi>Abraham Dawes</hi> dead also, and Sir <hi>Iohn Iacob,</hi> and their Partners. The other fifteen thousand pounds was charged upon the then Farmers, <hi>viz.</hi> Sir <hi>Iohn Iacob,</hi> Sir <hi>Thomas Dawes</hi> (who succeeded his Father) Sir <hi>Iob Harvey,</hi> Sir <hi>Nicholas Crisp,</hi> and Sir <hi>Iohn Nulls,</hi> and their Part<g ref="char:EOLhyphen"/>ners; unto whom, by new propositions for the Contract, newly made for foure yeares of the said Customes, from <hi>Christmas</hi> 1640, and the Lady day 1641, were to be joyned Sir <hi>Paul Pindar,</hi> and Sir <hi>Iohn Harrison,</hi> and the Lord <hi>Goring,</hi> would also be one, though little to their advantage.</p>
+            <p>Whiles these things were agitated, the Farmers continued their said new Contract, paid, and received divers summes of money, and that by Licence, and Order of Parliament, little dreaming, that, being so highly to expiate their crime, and that for such ser<g ref="char:EOLhyphen"/>vice as the payment of two Armies, they should so suddenly be removed from that hold, which was the Anchor of their safety in so great a storme.</p>
+            <p>But the next day, that the Composition was re<g ref="char:EOLhyphen"/>ported, the said Contract was voted void, all Assign<g ref="char:EOLhyphen"/>ments upon the Rents were made null, and the Cu<g ref="char:EOLhyphen"/>stoms diverted to such uses, as the Parliament should appoint, and because there then appeared none more able to serve them, in this designe; in stead of Far<g ref="char:EOLhyphen"/>mers most of them were made Commissioners, and so continued during the seven Acts of Tonnage and Poundage, passed in the compasse of thirteen months.
+<pb n="4" facs="tcp:33130:5"/> Then the late King unhappily deserted his Parlia<g ref="char:EOLhyphen"/>ment, which begat many thoughts of alterations, but the Parliament, resolving not to spare this Revenue, commanded still the same Farmers to continue their imployment, and passed severall Ordinances with indemnities for them, against the Law lately passed by themselves, wherein the penalty was a <hi>praemunire</hi> at the least, for receiving the Customes without a Law; so were they commanded to fall into the same error, for which they were by the same men so severe<g ref="char:EOLhyphen"/>ly punished: So crimes even have their times, &amp; sea<g ref="char:EOLhyphen"/>sons. But they knew no fence against that Command, besides they were ambitious of their favour, who at first set so deep a marke of hatred, for then a Custo<g ref="char:EOLhyphen"/>mer was worse then a Publican, nay, <hi>tanquam à Iudaeis peccatores omnium vilissimi,</hi> though I could have told them that among the Romans, they had a better repu<g ref="char:EOLhyphen"/>tation.<note place="margin">Cicero.</note> My Author cals them, <hi>Equitum primores, Civitatis ornamentum, Reipublica firmamentum, qui Pub<g ref="char:EOLhyphen"/>licanorum ordine continentur:</hi> But obedience was better then sacrifice, yet we sacrificed for our obedience, and paid the said Composition in the space of two moneths for the payment of the Armies aforesaid.</p>
+            <p>During these payments we were not only imploy<g ref="char:EOLhyphen"/>ed, but were also much encouraged, and caressed by many of the Parliament, with assurances of all just favours, in any thing that might concerne us; and of this we began to stand in need, for the blow struck so deep into our Estates, and Credits, that we began to sinke before we were halfe way over, and that because publick notice was taken, that our Grants of the
+<pb n="5" facs="tcp:33130:5"/> Contracts were dissolved, and no reparation ordered for the Kings debts, that were contracted thereupon: This begat presently a Petition to the House in <hi>Iune</hi> 1641, wherein we shewed, how our Credit was bla<g ref="char:EOLhyphen"/>sted, without some sudden influence of their favour, and that without some present care of the satisfacti<g ref="char:EOLhyphen"/>on of the said Debts, our burden was beyond our strength, so farre, that we were not able to performe the Composition agreed on, to which the House im<g ref="char:EOLhyphen"/>mediately answered, That they would take into con<g ref="char:EOLhyphen"/>sideration the said Debts in due time; This had that spirit in the multitude, that like hot water, it gave life to our credit, and so we compassed the payment of the said Composition in the time aforesaid.</p>
+            <p>This was paid among us, partly in money brought in, and partly by credit, and because I am not to end this History without the ballance of my owne Ac<g ref="char:EOLhyphen"/>compt, I will here declare my share to amount unto
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>30064</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                  </row>
+               </table> Of this I discharged in money and Bonds 15000 li. the rest was then in Sir <hi>Paul Pindar's</hi> hands, we all in<g ref="char:EOLhyphen"/>tending to finish the Accompt with all possible speed.</p>
+            <p>But the distempers continuing in severall fits of good, and bad dayes, It, at last brake out into such a Feaver, that Factions, and ambitions began to boyle in most mens veines, and even among our selves; Sir <hi>Iohn Welstenholme</hi> leads to the Royall party, Sir <hi>Ni<g ref="char:EOLhyphen"/>cholas Crisp</hi> followes, and Sir <hi>Iohn Harrison</hi> stayes lit<g ref="char:EOLhyphen"/>tle after, nay divers of our Creditors left their Deb<g ref="char:EOLhyphen"/>tors,
+<pb n="6" facs="tcp:33130:6"/> and went also the same way; Sir <hi>Paul Pindar,</hi> and my selfe, with some others of us, staid here, in obedi<g ref="char:EOLhyphen"/>ence to the Parliament, where for the space of divers yeares the Debts were not so much as demanded, nor interest asked, nay they that have since been violent, if not ingratefull prosecutors, durst not so much as owne their Debts, much lesse demand their satisfa<g ref="char:EOLhyphen"/>ction, being in danger to be lost for their Delinquen<g ref="char:EOLhyphen"/>cy, had not the fidelity of the Farmers preserved them, for which they are not well rewarded. I have been the more particular in this digression, because it was a consequence of the first, &amp; is yet like a fester'd wound, not cured, but rather by the accidents of times, neglects of opportunities, and too much trust in men living, and dead, likely to turne into a dange<g ref="char:EOLhyphen"/>rous gangrene, to the ruine of us that survive to an<g ref="char:EOLhyphen"/>swer the Law, when we can have none from those that are dead: Considerations little thought of by men in our times, who take hold of the <hi>summum Ius</hi> of our Law, but little thinke of that <hi>summum Bonum</hi> of Christian pitty, and charity, due to Brethren that fall in a common calamity. But now I crave leave to proceed to that part of the Kings Debts, the greatest occasion of your present trouble.</p>
+            <p>These Debts contracted upon the Farmes afore<g ref="char:EOLhyphen"/>said, nulled by the Parliament, might then amount unto 200000 ɫɫ, whereof in money about 118000 ɫɫ and by one Assignment to the East India Company, for Pepper, about 62000 ɫɫ, and about 20000 ɫɫ to Sir <hi>David Conningham,</hi> and Master <hi>Smithsby,</hi> in satis<g ref="char:EOLhyphen"/>faction of some old, and new Debts, made upon the
+<pb n="7" facs="tcp:33130:6"/> score of King <hi>Iames,</hi> and the late King, and so hedged in by the advantage of necessity, which seldome makes good bargaines: These Assignments made upon the Rents to come, it was easie to move the King to require the Farmers to give their Bonds, and being indifferent to them, to whom they paid their Rent, it was as easie with them to grant it.</p>
+            <p>Why those men that made their owne bargaines should so far forget the Brocage of their own advan<g ref="char:EOLhyphen"/>tages, as now to fall with all violences of the Law, upon the Farmers, even to Statutes of Bankrupt, in<g ref="char:EOLhyphen"/>tended for Rogues, and cheaters, and which in this case, in all Nations but this, would admit of equity, and pitty, I cannot but wonder, certainly they may suspect a scrutiny to be dangerous, and therefore presse violently for their satisfaction, left a Delin<g ref="char:EOLhyphen"/>quency, which is more due to them then to the Far<g ref="char:EOLhyphen"/>mers, might hazard their debt.</p>
+            <p>
+               <hi>Obj</hi> But I have heard one say; What if these Debts be two hundred thousand pounds, shall such a summe sinke Gentlemen of such value, and credit? it hath been credibly reported, that they have got double the summe by the Farmes aforesaid.</p>
+            <p>
+               <hi>Ans.</hi> This will soone be answered, when you ob<g ref="char:EOLhyphen"/>serve the series of this story: What was gotten by the Farmes, was gotten in times of vast plenty, and consumption, when our Ships were the Forts of Sea, and Land, and our Ports the Magazines of Trade, and this was the first seventeen yeares of the late King, and those gaines were shared into great parcels by Sir <hi>Iohn Welstenholme senior,</hi> and Sir <hi>Abraham Dawes,</hi>
+               <pb n="8" facs="tcp:33130:7"/> both dead before the Parliament, and the first, no Partner in this Contract, and the last of no use, for Sir <hi>Thomas Dames</hi> pleads the Executors plea, will re<g ref="char:EOLhyphen"/>ceive, not pay. And Sir <hi>Paul Pindar,</hi> and Sir <hi>Iohn Ia<g ref="char:EOLhyphen"/>cob,</hi> you may guesse, could not come off for lesse then threescore thousand pounds, for their parts of the Composition aforesaid, and in seventeen yeares as a man gets, he loseth, and spendeth by increase of Fa<g ref="char:EOLhyphen"/>mily, especially in yeares of his prosperity. So that Sir <hi>Paul Pindar,</hi> and Sir <hi>Iohn Iacob</hi> cannot be thought so strong as to beare halfe such a burthen, and for other helps which may be in Sir <hi>Iob Harby,</hi> Sir <hi>Nicho<g ref="char:EOLhyphen"/>las Crisp,</hi> and also Sir <hi>Iohn Nulls,</hi> the world knowes their losses, and I know they are undone for two years service, in which they have yet lost (besides these Debts) above ten thousand pound a man, and are now also to joyne in the Composition of six shillings eight pence offered to the Creditors.</p>
+            <p>
+               <hi>Obj.</hi> Then I heard another say, that six shillings eight pence in the pound, now offer'd for the Compo<g ref="char:EOLhyphen"/>sition, was no way worthy of such men; It is suppo<g ref="char:EOLhyphen"/>sed that Sir <hi>Paul Pindar</hi> dyed worth at least one hun<g ref="char:EOLhyphen"/>dred and fifty thousand pounds good Estate, which should contribute to those Debts; that Sir <hi>Iohn Iacob</hi> hath two thousand pound a yeare Land, &amp; hath recei<g ref="char:EOLhyphen"/>ved his Rents all this while, without apparent losses.</p>
+            <p>
+               <hi>Ans.</hi> First give me leave to tell him, that this is not offered as a Composition of the whole Debt, the remainder is transferred, both principall, and inte<g ref="char:EOLhyphen"/>rest, upon the expectation of a future satisfaction from the State, wherein the Farmers have as great
+<pb n="9" facs="tcp:33130:7"/> shares, and stocks as all the Creditors, and neither the one, nor the other had been now in hazard, had the Creditors stood to the Farmers, according to their subscriptions, and promises in the late oppor<g ref="char:EOLhyphen"/>tunity they had, both to serve the State, and save themselves. And for the value of dead mens Estates, I am no Conjurer, but I find Master <hi>Toomes,</hi> Sir <hi>Pauls</hi> Executor, a Spirit that is not easily laid, nor ruled, and keeps to his old Plea, receive, but pay nothing. For what concernes my selfe, they reckon without booke, that ballance other mens Estates, therefore you shall give me leave to doe it my selfe, wherein I will confesse above your knowledge, with that inte<g ref="char:EOLhyphen"/>grity as becomes the honour, and honesty of him that is as a dying man, in his Estate, and Fortune, and ought not to dissemble with God, who can punish in another world, where the only hope remaines of his felicity.</p>
+            <p>I must confesse then, that at the beginning of that Parliament, I had by descent, and acquisition at the least three thousand pound <hi>per annum,</hi> good Rents, out of which foure hundred pound <hi>per annum</hi> was set out for my Mothers Joincture, who yet lives, and enjoyes it.</p>
+            <p>I had in Offices in the Custome-house, being Cu<g ref="char:EOLhyphen"/>stomer of <hi>London</hi> (the only legall, and ancient Office) and as Collector of the Pretermitted Customes, and of the Impost of Tobacco, all for two lives, and worth at the least eight hundred pounds <hi>per annum.</hi>
+            </p>
+            <p>I had, and yet have in the stocke of the Farmes 10000 ɫɫ
+<pb n="10" facs="tcp:33130:8"/> I had in Sir <hi>Paul Pindars</hi> hands, on the accompt of the Farmes 15000 ɫɫ I had due to me upon the Accompt of the Preter<g ref="char:EOLhyphen"/>mitted Customes, taken away by Parliament, the tenth of <hi>August,</hi> 1641 7500 ɫɫ I had in good Debts, Plate, and Jewels, to the value of 20000 ɫɫ</p>
+            <p>This seemes a faire foundation, had not the Deluge shaken the Frame of the whole World; But you shall see, how Riches have wings.</p>
+            <p>The first breach upon me, was, when the flouds went highest, the Composition to the Parliament, which swept away for my part
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>30064</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                  </row>
+               </table> Of this, as I said before, I paid in money, and by dis<g ref="char:EOLhyphen"/>charge of some Bonds 15000 ɫɫ The rest was in Sir <hi>Paul Pindars</hi> hands, to cleare the said Composition, but is now disputed by Mr <hi>Toomes,</hi> upon pretence of Tallyes, and other Accompts since fallen into difference between him, and me: but ought justly to goe in part of the Composition afore, and is therefore so charged
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>30064</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The next is a Fine, invented for dead mens faults, of dangerous consequence, yet it being found that my Father was a Partner in the Farmes from <hi>prime</hi> to <hi>tertio Caroli,</hi> I was forced to pay to an halfpenny
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>1354</cell>
+                     <cell>7</cell>
+                     <cell>2 ob</cell>
+                  </row>
+               </table> Then for my composition in the two years Farmes
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>1500</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table> Then my Stocke in the Farme yet lost
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>10000</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="11" facs="tcp:33130:8"/>
+            <p>Since which,<note place="margin">Quaere <hi>Calendrini</hi> Accomp.</note> I have paid as part of the late Kings Debts, to severall persons, to avoid clamour, and the danger of imprisonment, and to take off some Ex<g ref="char:EOLhyphen"/>tents upon my Lands, as <hi>per</hi> Accompt, at the least 14000 ɫɫ</p>
+            <p>I have lost ready money lent to my Lord <hi>Goring,</hi> whose Estate is since melted by the heate of these times 5500 ɫɫ</p>
+            <p>Then began the practice of Haberdashers Hall, where I was set at 2000 ɫɫ for 5<seg rend="sup">th</seg> and 20<seg rend="sup">th</seg> Part, but alledging that I was worth nothing, by reason of the said Kings Debts; The committee asked me, whi<g ref="char:EOLhyphen"/>ther I made the King a Bankrupt, and whether I valu<g ref="char:EOLhyphen"/>ed the Publick Faith at nothing? I replyed, as befitted that place, and as a favour, I was reduced to 1500 which I paid 1500 ɫɫ</p>
+            <p>Then the Parliament having intercepted a Letter from Mris <hi>Seymer</hi> at <hi>Oxford,</hi> then written to Sir <hi>Paul Pindar</hi> for the interest of 5000 ɫɫ in our hands, she was the next morning made a Delinquent, and the Farmers residing here were summoned to pay this 5000 ɫɫ to the House, and we demanding the Bond, they replyed, That an Ordinance of Parliament should secure us against her Bond: We disputed it awhile with all civility to them, but they making many threats upon us, and sequestring our Estates, we at last submitted to pay our parts, which they computing, divided into seven shares, I condiscended to pay mine, upon which the Sequestrations were ta<g ref="char:EOLhyphen"/>ken off, and though now (she being come to demand her money) I find I was not bound, yet it cost me
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>714</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+               <pb n="12" facs="tcp:33130:9"/> About this time (having a house in the City) I paid the fifty Subsidies
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>300</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table> Then for the <hi>Scots</hi> busines I paid
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table> Next for <hi>Ireland</hi>
+               <table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>200</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table> The debt on the Pretermitted Customes was lost in 1641
+<table>
+                  <row>
+                     <cell>l.</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>7500</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+               </table> Then in 1648, my Offices (as aforesaid) which were under the Great Seale of <hi>England,</hi> for two lives, for which I would not have taken 6000 ɫɫ</p>
+            <p>Then in good Debts due from severall persons, whose Estates are made uncapable by Parliament, and those unhappy accidents, I have lost, as I will make it appear (besides what is above charged) at the least 10000 ɫɫ</p>
+            <p>All which you wil find to be<table>
+                  <row>
+                     <cell>ɫɫ</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row>
+                     <cell>88832</cell>
+                     <cell>18</cell>
+                     <cell>0 ob</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Here I reckon no Farmes, nor any Debt due ther<g ref="char:EOLhyphen"/>upon, except my Stocke, and money paid to the Cre<g ref="char:EOLhyphen"/>ditors (which yet is lost) though I could tell you of above 50000 ɫɫ due from the late King amongst us, for defalcations, and other demands; neither doe I charge here any quarterings, Taxes; or other publick payments, which I will make appeare doe amount unto 6000 ɫɫ, neither is here any estimate of any profit expectant of the Farmes, as the Contract for foure yeares, the Sugar Farme for sixteen yeares, all which would much inflame the reckoning; but being contingencies are not valued, now tell me, what is Sir <hi>Iohn Iacob</hi> worth?</p>
+            <pb n="13" facs="tcp:33130:9"/>
+            <p>But I he<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e one say, that though these losses are in<g ref="char:EOLhyphen"/>deed great, yet Sir <hi>Iohn Iacob</hi> hath kept his Lands, and the profits thereof all this while.</p>
+            <p>I shall ingenuously confesse, that with much adoe, I have kept some, but those extended, and incumbred for many of the said Debts, the Creditors whereof finding a reall Estate, have perpetually put me to the defensive posture, though with great charge, and vex<g ref="char:EOLhyphen"/>ation: But I must also declare, that since the begin<g ref="char:EOLhyphen"/>ning of that Parliament, I have sold at the least 1400 ɫɫ <hi>per annum,</hi> for the supply of many occurring occasions, and to keep my liberty as long as I could. And have yet left about 1600 <hi>per annum,</hi> whereof my living Mother hath 400 ɫɫ <hi>per annum,</hi> so rests 1200 ɫɫ <hi>per annum,</hi> whereof about 600 <hi>per annum</hi> is setled long since for the payment of severall particular Debts, being yet due by the misfortune of these times to many of my friends, and kindred, many Widdowes, and Orphans, who then thought their Estates safe, and happy in my hands, and whom in honour, and honesty I ought to provide for: then re<g ref="char:EOLhyphen"/>maines but 600 ɫɫ <hi>per annum</hi> more, which must now goe to secure, and pay this Composition with the Creditors, which may amount unto for my part about 10 or 11000 ɫɫ. Now tell me (Gentlemen) what is Sir <hi>Iohn Iacob</hi> worth?</p>
+            <p>Perhaps some will say, he shall have 400 ɫɫ <hi>per an<g ref="char:EOLhyphen"/>num</hi> after his Mothers decease: Truly it is not halfe so much as his Father left him, nor lesse then his left him in <hi>Cambridge</hi> shire, where I drew my first breath;<note place="margin">Ca<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lingay</note> and after thirty five yeares action upon the stage of
+<pb n="14" facs="tcp:33130:10"/> this world, in eminent imployments, and credit, to have such a <hi>recessus ad principium; durus sermo;</hi> but I wish you could tell, how he, his wife, and nine chil<g ref="char:EOLhyphen"/>dren growne in this his wasting, shall live in the in<g ref="char:EOLhyphen"/>terim. <hi>Charitas laudatur, at alget.</hi>
+            </p>
+            <p>Doe you not see how I am undone? what oppressi<g ref="char:EOLhyphen"/>ons have overwhelmed me, and my Estate? what in<g ref="char:EOLhyphen"/>justices occasioned by the distemper of the times? will not that doe? Then consider; you see no deceits, no fallacies, no frauds, no building, no buying, no tra<g ref="char:EOLhyphen"/>ding, no drabbing, no dicing with your monies; you see the considerations of their Contract, which should have paid you, taken away by power; bargaines nul<g ref="char:EOLhyphen"/>led; promises broke; Publike Faith frustrate; you see the turnes of State; Government alter'd; Kings, and Kingdomes arraigned, condemned, and executed; you see in fine, wonderfull judgments, wonderfull suc<g ref="char:EOLhyphen"/>cesses, wonderfull alterations: and what you may yet see, God knowes. Will not this doe? then consider, <hi>Hodie mihi, cras tibi.</hi>
+            </p>
+            <p>This I have sent you, to let you see the jnjury of opinion, and to convert ingenuous minds, and per<g ref="char:EOLhyphen"/>haps to operate upon the unbiassed conscience of ho<g ref="char:EOLhyphen"/>nest men. And here I thought to have ended; but I heard that one lately said in company (speaking of the sad condition of my selfe, and Partners) that there was little pitty due to those that lent the late King money to keep off Parliaments, and so in effect, were the Authors of these late Wars: Truly that Gentle<g ref="char:EOLhyphen"/>man might observe, that the King had five Parlia<g ref="char:EOLhyphen"/>ments in seventeen yeares; That he lost rather then
+<pb n="15" facs="tcp:33130:10"/> wanted the opportunity of his owne happinesse: And I will as truly tell him, that in all his Raigne, upon any Accompt made up by the Auditors, which are yet Records, there was never above forty thou<g ref="char:EOLhyphen"/>sand pounds due above the Rent, and many times lesse, which was a small summe to stocke a Warre; It is also as true in 1638, there were generall loanes from all Officers, and relations to the King, and the Farmers renewing their Grants with additionall Partners, there was an advance made of some con<g ref="char:EOLhyphen"/>siderable summe; And in <hi>anno</hi> 1640, these Debts were contracted, by which it afterwards appeared, the King had made some provisions of Warre, which the Parliament recovered, and made great use of; but to say the Farmers had any Personall De<g ref="char:EOLhyphen"/>signes, were to make them of the Councell of State, which is no lesse then to make us all so, that now pay Taxes: Besides, if the Farmers credit had been so prodigious, it might have prevented the Ship-money, and many other Projects, which, if the par<g ref="char:EOLhyphen"/>ties had not had better lucke, might have proved more criminall, then the poore Farmers. But some may better steale, then others look on.</p>
+            <p>But another, he cryes, it is no matter, They got great Estates by Farming of the Customes, not due by Law, and therefore were justly punished. Truly, I will not enter into that question, whether due by Right, Custome, or Law, neither is it fit to dispute by what Law they are now due, they were ever recei<g ref="char:EOLhyphen"/>ved untill they were given by Law, they cannot be spared though there be no Law.</p>
+            <pb n="16" facs="tcp:33130:11"/>
+            <p>But because I am in, I must intreat the ingenuous vulgar, to understand things by their right names, and in their proper termes, or else any man may easi<g ref="char:EOLhyphen"/>ly receive, an unhappy character. There is an illega<g ref="char:EOLhyphen"/>lity, both materiall, and formal, such are the Actions, and Contracts as are against the Law of God, and man: These can never have a Law: There is an ille<g ref="char:EOLhyphen"/>gality materially so, which though there be no ex<g ref="char:EOLhyphen"/>presse caution by Statute to prohibit, yet those acti<g ref="char:EOLhyphen"/>ons that fall under it, are either against some Mo<g ref="char:EOLhyphen"/>rall Law, and so evill, or such as by our Law, cannot be made Legall, or they are against the summe, or in<g ref="char:EOLhyphen"/>tentions of our Lawes, and so evill to the Common<g ref="char:EOLhyphen"/>wealth, and so no Law ought to be made for their to<g ref="char:EOLhyphen"/>leration. And then some Actions, and Contracts are only formally illegal, as being prohibited by Sta<g ref="char:EOLhyphen"/>tute, or some rule of Law, though in its owne nature such, as but for that Law were legall: Now, I desire that Gentleman to tell me whether the Farming, and receiving the said Customes, were illegall materi<g ref="char:EOLhyphen"/>ally, then no Ordinance, or Law ought to be made to tollerate them, if formally, then shew me any Sta<g ref="char:EOLhyphen"/>tute before to prohibit them; then tell me how the Farmers were justly punished, for no Law (I thinke) can speake untill it be borne, neither should justice looke back to punish any action elder then the Law, which only makes it punishable, because illegall, and that but formally, because the Law declares it such; and where there is no Law, there is no transgression: But this seemes a <hi>vindiciarum postulatio,</hi> out of date, <hi>volenti non sit injuria;</hi> We submitted then, and so
+<pb n="17" facs="tcp:33130:11"/> must yet, to be undone in a crowd, and to be subject to the oppression of all censures, the violences of all Lawes, and the losse of all Estates, Liberty, and re<g ref="char:EOLhyphen"/>putation, unlesse God worke even miraculously upon the multitude, into whose hands he hath delivered us, or graciously upon the spirit of his Highnesse, into whose protection he hath cast us, and in whom only under God, we have our hope, in due time for some reparation, or restauration of our poore Estates, when God shall settle him in peace, and safety, for the honour, and prosperity of this Common<g ref="char:EOLhyphen"/>wealth. <hi>Et sic animum liberavi</hi>—
+<q>—Congregat quispiam, sed nescit quis recepturum.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
